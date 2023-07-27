@@ -1,2 +1,7 @@
 # Personal Portfolio
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+This is my personal portfolio that covers the following sections about my work:
+- About Me
+- Resume
+- Projetcs
+
+
