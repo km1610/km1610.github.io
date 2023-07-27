@@ -1,1 +1,2 @@
-# km1610.github.io
+# Personal Portfolio
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
